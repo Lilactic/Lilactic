@@ -1,6 +1,6 @@
 ## Hi, I'm Lilliana.
 
-🔭 I’m currently working on: my personal website!<br>
+🔭 I’m currently working on: my personal website & TSA 2026 website!<br>
 🌱 I’m currently learning: HTML/CSS, Python
 
 <details>
